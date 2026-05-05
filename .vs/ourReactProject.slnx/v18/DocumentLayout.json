@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\migrations\\20260504100942_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\migrations\\20260504100942_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|c:\\users\\sanjan\\source\\repos\\ourreactproject\\ourreactproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AD33DF-A6A7-0F28-FB74-A90AEDE697CF}|ourReactProject\\ourReactProject.csproj|solutionrelative:ourreactproject\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260504100942_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Migrations\\20260504100942_initial.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\Migrations\\20260504100942_initial.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Migrations\\20260504100942_initial.cs",
+              "RelativeToolTip": "ourReactProject\\Migrations\\20260504100942_initial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:09:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ourReactProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\appsettings.json",
+              "RelativeToolTip": "ourReactProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-04T09:56:10.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Models\\StudentDBContext.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\Models\\StudentDBContext.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Models\\StudentDBContext.cs",
+              "RelativeToolTip": "ourReactProject\\Models\\StudentDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:27:09.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Program.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Program.cs",
+              "RelativeToolTip": "ourReactProject\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:44:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ourReactProject\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:21:59.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\WeatherForecast.cs",
+              "RelativeToolTip": "ourReactProject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:45:28.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ourReactProject\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Sanjan\\source\\repos\\ourReactProject\\ourReactProject\\Models\\Student.cs",
+              "RelativeToolTip": "ourReactProject\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T09:22:28.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
